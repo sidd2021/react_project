@@ -1,0 +1,34 @@
+.clearcart i{
+ font-size: 2rem;
+ padding:0px 0px;
+ margin: 0px 0px;
+ display: inline-block;
+}
+.cartheading{
+    display: inline;
+    font-size: 2rem;
+}
+.carthead{
+    display:flex;
+    width: 70%;
+  margin:50px 0px 40px 0px;
+}
+.trasheffect{
+    color: rgba(230, 40, 40, 0.37);
+    text-align: end;
+    padding: 0px 0px 0px 20px;
+}
+.trasheffect:hover{
+    font-size: 2.1rem;
+    color: red;
+}
+.cartDisable{
+    display: none;
+}
+.cartFlow i{
+    color:rgb(10, 7, 7)
+}
+.cartFlow{
+   width: 33%;
+   text-align: start;
+}

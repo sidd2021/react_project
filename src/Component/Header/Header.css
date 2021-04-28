@@ -1,0 +1,14 @@
+.Header{
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(37, 36, 36);
+    height: 280px;
+}
+.Header h2{
+    margin-top: 4rem;
+}
+.fonts i{
+    margin-top: 10px;
+   
+    font-size: 8rem;
+}

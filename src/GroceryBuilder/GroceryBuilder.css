@@ -1,0 +1,12 @@
+.GroceryBuilder{
+   display: inline-flex;
+    width: 99%;
+}
+.grocery{
+    width: 50%;
+
+}
+.cart{
+    margin-bottom: 5px;
+    width: 50%;
+}

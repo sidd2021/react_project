@@ -1,0 +1,19 @@
+.footerstyle {
+    background-color: rgba(0, 0, 0, 0.795);
+    color:white;
+    height: 220px;
+    text-align: center;
+}
+.footerstyle footer{
+    padding-top: 110px;
+}
+.footerstyle span{
+    padding:12px;
+    text-decoration: underline;
+}
+.footerstyle span:hover{
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}

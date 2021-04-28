@@ -1,0 +1,43 @@
+.head{
+  width: 50%;
+  margin: 45px;
+  display: block;
+  
+}
+.head i{
+    margin-right: 20px;
+    font-size: 2rem;
+  
+}
+
+.head h2{
+    font-size: 2rem;
+    display: inline;
+ 
+}
+.grocerry li{
+    text-align: start;
+    list-style: none;
+    width: 50%;
+    padding: 0.8rem;
+    margin-top: 3px;
+}
+.grocerry i{
+   font-size: 1.4rem;
+    padding-right:10px;
+    color: rgba(185, 185, 185, 0.774);
+}
+.lightList{
+    background-color: rgba(204, 203, 203, 0.185);
+  
+}
+.darkList{
+    background-color: rgba(128, 128, 128, 0.192);
+   
+}
+.lightList:hover i,.darkList:hover i{
+    color:green;
+    font-size: larger;
+}
+
+
